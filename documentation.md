@@ -2,7 +2,7 @@
 -------
 ## Python --> GitHub Repo ##
 1. [Upload this .html](https://drive.google.com/file/d/17R3cvV2HyaKwBCTiBdtOAR_-BCkNgx_b/view?usp=sharing) which is the converted **.html** file for diff_jade_style_edits.py. Name it "save.index.html"
-2. Upload *another* copy of the diff_jade_style_edits.html file, **deleting** the !DOCTYPE html and name it diff_jade_style_edits.html
+2. Upload *another* copy of the diff_jade_style_edits.html file, **deleting** the !DOCTYPE html and name it "diff_jade_style_edits.html"
 3. You should now have in your **main** repo **two files**: "save.index.html" with full .html code; & "diff_jade_style_edits.html" without the doctype
 ## GitHub Repo --> Pages ##
 [I used this link tutorial] (https://guides.github.com/features/pages/) after the repo creation step to set up an active website
