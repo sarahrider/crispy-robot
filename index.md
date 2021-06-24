@@ -1,3 +1,4 @@
+# Jade 001 Text Analysis #
 <div class="jp-Cell-outputWrapper">
 
 
@@ -5,7 +6,6 @@
 
 <div class="jp-OutputArea-child">
 
-    
     <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
 
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/markdown">
@@ -36,5 +36,3 @@
 </div>
 
 </div>
-# Jade 001 Text Analysis #
-## are you here? ##
