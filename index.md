@@ -1,5 +1,6 @@
 # Jade 001 Text Analysis #
 [Jade 001 Map!](https://xgloria.github.io/Jade001_mapsample/)
+### *please* make this link appear! ###
 
 <div class="jp-Cell-outputWrapper">
 
