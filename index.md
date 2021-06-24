@@ -8,8 +8,6 @@
     
     <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
 
-# Jade 001-Jade 004 Text Differences #
-
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/markdown">
     <p><style>                           
     span.delete {color: #32a852; 
