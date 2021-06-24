@@ -1,5 +1,6 @@
 # Jade 001 Text Analysis #
-[Here is the link to Jade001's Map!] (https://xgloria.github.io/Jade001_mapsample/)
+https://xgloria.github.io/Jade001_mapsample/ - Jade001 Map!
+[Jade 001 Map](https://xgloria.github.io/Jade001_mapsample/)
 
 <div class="jp-Cell-outputWrapper">
 
